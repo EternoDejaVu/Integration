@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class StatisticServiceTest {
+public class StatisticsServiceTest {
 
     @Test
     void findMax() {
